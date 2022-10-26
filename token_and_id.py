@@ -1,0 +1,2 @@
+
+token = '''vk1.a.W733i_LF8kb4KMJavnO-y6PI2XfcYEqbY6zo5hiYEw9Ov80FFNPq-6MwPzNzldKCarac_s-B2xga9unyumweWkZQgs7NldxI3OBcrBf80lZjJmfU_V3ZrWMzXUuPF6HZrvmKNZPSNW5AbqDlkxjIy7EGXHNHecV12Zjbi8fJUIYrqUiq1vrig2c-IKRMDWrxnldR3X4i9adJRlM8kk3X4w'''
